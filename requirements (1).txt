@@ -1,4 +1,0 @@
-Flask
-Scikit-learn
-joblib
-gunicorn
